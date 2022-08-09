@@ -10,4 +10,4 @@ Requirements:
 
 1) Download and extract file 
 2) open command prompt and cd to directory ,FOr eg: cd "C:\Users\windows11\Downloads\fashion-main"
-3) Run " npm run start " command to run run locally
+3) Run " npm run start " command to run locally
