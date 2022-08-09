@@ -1,4 +1,4 @@
-# YoloV5 : Detect Fashion elements
+# YoloV5 : Detect Fashion Elements
 
 Test implementation : https://fashion1060.herokuapp.com/
 
