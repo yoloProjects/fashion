@@ -19,7 +19,7 @@
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build --repo git@github.com:zldrobit/tfjs-yolov5-example.git"
+    "deploy": "gh-pages -d build --repo git@github.com:yoloProjects/fashion"
   },
   "browserslist": [
     ">0.2%",
