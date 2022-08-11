@@ -1,5 +1,5 @@
 {
-  "name": "tfjs-yolov5-example",
+  "name": "fashion",
   "version": "1.0.0",
   "description": "",
   "keywords": [],
@@ -19,7 +19,7 @@
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d build --repo git@github.com:zldrobit/tfjs-yolov5-example.git"
   },
   "browserslist": [
     ">0.2%",
