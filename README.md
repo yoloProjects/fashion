@@ -1,6 +1,6 @@
 # YoloV5 : Detect Fashion Elements
 
-Test implementation : https://yoloprojects.github.io/fashion
+Test implementation : https://fashion1060.herokuapp.com/
 
 To test locally
 
